@@ -1,5 +1,5 @@
 # Phần mềm BanLinhKien Editor
-Phần mềm BanLinhKien Editor được viết bằng ngôn ngữ C#
+Phần mềm BanLinhKien Editor được viết bằng ngôn ngữ C# trên Visual Studio
 
 ### Giới thiệu
 BanLinhKien Editor là phần mềm chuyên dụng dùng để tạo mã HTML cho BanlinhKien.COM và BanLinhKien.VN, ngoài ra phần mềm còn hỗ trợ công cụ chỉnh sửa ảnh, tải ảnh lên Google Drive và thêm link tự động giúp tiết kiệm thời gian và công sức cho nhân viên xử lý Web.
