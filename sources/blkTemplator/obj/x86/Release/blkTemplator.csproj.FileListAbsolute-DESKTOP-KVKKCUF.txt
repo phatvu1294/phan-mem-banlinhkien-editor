@@ -1,0 +1,406 @@
+D:\MY GIT\banlinhkien-editor\sources\blkEditor\bin\Release\blkTemplator.exe.config
+D:\MY GIT\banlinhkien-editor\sources\blkEditor\bin\Release\blkTemplator.exe
+D:\MY GIT\banlinhkien-editor\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+D:\MY GIT\banlinhkien-editor\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+D:\MY GIT\banlinhkien-editor\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+D:\MY GIT\banlinhkien-editor\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+D:\MY GIT\banlinhkien-editor\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+D:\MY GIT\banlinhkien-editor\sources\blkTemplator\obj\x86\Release\blkTemplator.csprojResolveAssemblyReference.cache
+E:\MY GITHUB\banlinhkien-editor\sources\blkEditor\bin\Release\blkTemplator.exe.config
+E:\MY GITHUB\banlinhkien-editor\sources\blkEditor\bin\Release\blkTemplator.exe
+E:\MY GITHUB\banlinhkien-editor\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+E:\MY GITHUB\banlinhkien-editor\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+E:\MY GITHUB\banlinhkien-editor\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+E:\MY GITHUB\banlinhkien-editor\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+E:\MY GITHUB\banlinhkien-editor\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+C:\Users\Phat Vu\MY GIT\banlinhkien-editor\sources\blkEditor\bin\Release\blkTemplator.exe.config
+C:\Users\Phat Vu\MY GIT\banlinhkien-editor\sources\blkEditor\bin\Release\blkTemplator.exe
+C:\Users\Phat Vu\MY GIT\banlinhkien-editor\sources\blkTemplator\obj\x86\Release\blkTemplator.csprojResolveAssemblyReference.cache
+C:\Users\Phat Vu\MY GIT\banlinhkien-editor\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+C:\Users\Phat Vu\MY GIT\banlinhkien-editor\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+C:\Users\Phat Vu\MY GIT\banlinhkien-editor\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+C:\Users\Phat Vu\MY GIT\banlinhkien-editor\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+C:\Users\Phat Vu\MY GIT\banlinhkien-editor\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+E:\MY SOLUTION\IT WEB\CSHARP\ver1.7.b1\sources\blkEditor\bin\Release\blkTemplator.exe.config
+E:\MY SOLUTION\IT WEB\CSHARP\ver1.7.b1\sources\blkEditor\bin\Release\blkTemplator.exe
+E:\MY SOLUTION\IT WEB\CSHARP\ver1.7.b1\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+E:\MY SOLUTION\IT WEB\CSHARP\ver1.7.b1\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+E:\MY SOLUTION\IT WEB\CSHARP\ver1.7.b1\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+E:\MY SOLUTION\IT WEB\CSHARP\ver1.7.b1\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+E:\MY SOLUTION\IT WEB\CSHARP\ver1.7.b1\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+C:\Users\Phat Vu\ver1.7.b1\sources\blkEditor\bin\Release\blkTemplator.exe.config
+C:\Users\Phat Vu\ver1.7.b1\sources\blkEditor\bin\Release\blkTemplator.exe
+C:\Users\Phat Vu\ver1.7.b1\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+C:\Users\Phat Vu\ver1.7.b1\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+C:\Users\Phat Vu\ver1.7.b1\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+C:\Users\Phat Vu\ver1.7.b1\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+C:\Users\Phat Vu\ver1.7.b1\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+E:\MY SOLUTION\IT WEB\CSHARP\ver1.7.bak2\sources\blkEditor\bin\Release\blkTemplator.exe.config
+E:\MY SOLUTION\IT WEB\CSHARP\ver1.7.bak2\sources\blkEditor\bin\Release\blkTemplator.exe
+E:\MY SOLUTION\IT WEB\CSHARP\ver1.7.bak2\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+E:\MY SOLUTION\IT WEB\CSHARP\ver1.7.bak2\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+E:\MY SOLUTION\IT WEB\CSHARP\ver1.7.bak2\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+E:\MY SOLUTION\IT WEB\CSHARP\ver1.7.bak2\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+E:\MY SOLUTION\IT WEB\CSHARP\ver1.7.bak2\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+C:\Users\Phat Vu\ver1.7.bak3\sources\blkEditor\bin\Release\blkTemplator.exe.config
+C:\Users\Phat Vu\ver1.7.bak3\sources\blkEditor\bin\Release\blkTemplator.exe
+C:\Users\Phat Vu\ver1.7.bak3\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+C:\Users\Phat Vu\ver1.7.bak3\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+C:\Users\Phat Vu\ver1.7.bak3\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+C:\Users\Phat Vu\ver1.7.bak3\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+C:\Users\Phat Vu\ver1.7.bak3\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+E:\MY SOLUTION\IT WEB\CSHARP\ver1.7.bak4\sources\blkEditor\bin\Release\blkTemplator.exe.config
+E:\MY SOLUTION\IT WEB\CSHARP\ver1.7.bak4\sources\blkEditor\bin\Release\blkTemplator.exe
+E:\MY SOLUTION\IT WEB\CSHARP\ver1.7.bak4\sources\bin\Release\blkTemplator.exe.config
+E:\MY SOLUTION\IT WEB\CSHARP\ver1.7.bak4\sources\bin\Release\blkTemplator.exe
+E:\MY SOLUTION\IT WEB\CSHARP\ver1.7.bak4\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+E:\MY SOLUTION\IT WEB\CSHARP\ver1.7.bak4\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+E:\MY SOLUTION\IT WEB\CSHARP\ver1.7.bak4\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+E:\MY SOLUTION\IT WEB\CSHARP\ver1.7.bak4\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+E:\MY SOLUTION\IT WEB\CSHARP\ver1.7.bak4\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+E:\MY SOLUTION\IT WEB\CSHARP\CSHARP_BanLinhKien_Editor\ver1.7\sources\bin\Release\blkTemplator.exe.config
+E:\MY SOLUTION\IT WEB\CSHARP\CSHARP_BanLinhKien_Editor\ver1.7\sources\bin\Release\blkTemplator.exe
+C:\Users\Phat Vu\Desktop\ver1.7\sources\bin\blkTemplator\blkTemplator.exe.config
+C:\Users\Phat Vu\Desktop\ver1.7\sources\bin\blkTemplator\blkTemplator.exe
+C:\Users\Phat Vu\Desktop\ver1.7\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+C:\Users\Phat Vu\Desktop\ver1.7\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+C:\Users\Phat Vu\Desktop\ver1.7\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+C:\Users\Phat Vu\Desktop\ver1.7\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+C:\Users\Phat Vu\Desktop\ver1.7\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+C:\Users\Phat Vu\Desktop\ver1.7\sources\blkTemplator\obj\x86\Release\blkTemplator.csprojResolveAssemblyReference.cache
+C:\Users\Phat Vu\ver1.7\sources\bin\blkTemplator\blkTemplator.exe.config
+C:\Users\Phat Vu\ver1.7\sources\bin\blkTemplator\blkTemplator.exe
+C:\Users\Phat Vu\ver1.7\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+C:\Users\Phat Vu\ver1.7\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+C:\Users\Phat Vu\ver1.7\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+C:\Users\Phat Vu\ver1.7\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+C:\Users\Phat Vu\ver1.7\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+E:\MY SOLUTION\IT WEB\CSHARP\ver1.7\sources\bin\blkTemplator\blkTemplator.exe.config
+E:\MY SOLUTION\IT WEB\CSHARP\ver1.7\sources\bin\blkTemplator\blkTemplator.exe
+E:\MY SOLUTION\IT WEB\CSHARP\ver1.7\sources\blkTemplator\obj\x86\Release\blkTemplator.csprojResolveAssemblyReference.cache
+E:\MY SOLUTION\IT WEB\CSHARP\ver1.7\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+E:\MY SOLUTION\IT WEB\CSHARP\ver1.7\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+E:\MY SOLUTION\IT WEB\CSHARP\ver1.7\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+E:\MY SOLUTION\IT WEB\CSHARP\ver1.7\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+E:\MY SOLUTION\IT WEB\CSHARP\ver1.7\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+C:\Users\Phat Vu\Dropbox\TEMPORARY\ver1.7\sources\bin\blkTemplator\blkTemplator.exe.config
+C:\Users\Phat Vu\Dropbox\TEMPORARY\ver1.7\sources\bin\blkTemplator\blkTemplator.exe
+C:\Users\Phat Vu\Dropbox\TEMPORARY\ver1.7\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+C:\Users\Phat Vu\Dropbox\TEMPORARY\ver1.7\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+C:\Users\Phat Vu\Dropbox\TEMPORARY\ver1.7\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+C:\Users\Phat Vu\Dropbox\TEMPORARY\ver1.7\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+C:\Users\Phat Vu\Dropbox\TEMPORARY\ver1.7\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+C:\Users\Phat Vu\Dropbox\TEMPORARY\ver1.8\sources\bin\Release\blkTemplator.exe.config
+C:\Users\Phat Vu\Dropbox\TEMPORARY\ver1.8\sources\bin\Release\blkTemplator.exe
+C:\Users\Phat Vu\Dropbox\TEMPORARY\ver1.8\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+C:\Users\Phat Vu\Dropbox\TEMPORARY\ver1.8\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+C:\Users\Phat Vu\Dropbox\TEMPORARY\ver1.8\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+C:\Users\Phat Vu\Dropbox\TEMPORARY\ver1.8\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+C:\Users\Phat Vu\Dropbox\TEMPORARY\ver1.8\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+C:\Users\Phat Vu\ver1.8\sources\bin\Release\blkTemplator.exe.config
+C:\Users\Phat Vu\ver1.8\sources\bin\Release\blkTemplator.exe
+C:\Users\Phat Vu\ver1.8\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+C:\Users\Phat Vu\ver1.8\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+C:\Users\Phat Vu\ver1.8\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+C:\Users\Phat Vu\ver1.8\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+C:\Users\Phat Vu\ver1.8\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+C:\Users\Phat Vu\ver1.9\sources\bin\Release\blkTemplator.exe.config
+C:\Users\Phat Vu\ver1.9\sources\bin\Release\blkTemplator.exe
+C:\Users\Phat Vu\ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+C:\Users\Phat Vu\ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+C:\Users\Phat Vu\ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+C:\Users\Phat Vu\ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+C:\Users\Phat Vu\ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+C:\Users\Phat Vu\ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.csprojResolveAssemblyReference.cache
+E:\MY SOLUTION\IT WEB\CSHARP\ver1.9\sources\bin\Release\blkTemplator.exe.config
+E:\MY SOLUTION\IT WEB\CSHARP\ver1.9\sources\bin\Release\blkTemplator.exe
+E:\MY SOLUTION\IT WEB\CSHARP\ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+E:\MY SOLUTION\IT WEB\CSHARP\ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+E:\MY SOLUTION\IT WEB\CSHARP\ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+E:\MY SOLUTION\IT WEB\CSHARP\ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+E:\MY SOLUTION\IT WEB\CSHARP\ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+C:\Users\Phat Vu\Dropbox\MY SOLUTION\IT WEB\CSHARP\ver1.9\sources\bin\Release\blkTemplator.exe.config
+C:\Users\Phat Vu\Dropbox\MY SOLUTION\IT WEB\CSHARP\ver1.9\sources\bin\Release\blkTemplator.exe
+C:\Users\Phat Vu\Dropbox\MY SOLUTION\IT WEB\CSHARP\ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+C:\Users\Phat Vu\Dropbox\MY SOLUTION\IT WEB\CSHARP\ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+C:\Users\Phat Vu\Dropbox\MY SOLUTION\IT WEB\CSHARP\ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+C:\Users\Phat Vu\Dropbox\MY SOLUTION\IT WEB\CSHARP\ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+C:\Users\Phat Vu\Dropbox\MY SOLUTION\IT WEB\CSHARP\ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+D:\WORKSPACE\MCA PROJECT\ver1.9.200510\ver1.9\sources\bin\Release\blkTemplator.exe.config
+D:\WORKSPACE\MCA PROJECT\ver1.9.200510\ver1.9\sources\bin\Release\blkTemplator.exe
+D:\WORKSPACE\MCA PROJECT\ver1.9.200510\ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+D:\WORKSPACE\MCA PROJECT\ver1.9.200510\ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+D:\WORKSPACE\MCA PROJECT\ver1.9.200510\ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+D:\WORKSPACE\MCA PROJECT\ver1.9.200510\ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+D:\WORKSPACE\MCA PROJECT\ver1.9.200510\ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+D:\WORKSPACE\MCA PROJECT\ver1.9.200510\soft_ver1.9\sources\bin\Release\blkTemplator.exe.config
+D:\WORKSPACE\MCA PROJECT\ver1.9.200510\soft_ver1.9\sources\bin\Release\blkTemplator.exe
+D:\WORKSPACE\MCA PROJECT\ver1.9.200510\soft_ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+D:\WORKSPACE\MCA PROJECT\ver1.9.200510\soft_ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+D:\WORKSPACE\MCA PROJECT\ver1.9.200510\soft_ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+D:\WORKSPACE\MCA PROJECT\ver1.9.200510\soft_ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+D:\WORKSPACE\MCA PROJECT\ver1.9.200510\soft_ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+D:\WORKSPACE\MCA PROJECT\00. MCA_blkEditor_blkTemplator_blkCapture_ver1.9\soft_ver1.9\sources\bin\Release\blkTemplator.exe.config
+D:\WORKSPACE\MCA PROJECT\00. MCA_blkEditor_blkTemplator_blkCapture_ver1.9\soft_ver1.9\sources\bin\Release\blkTemplator.exe
+D:\WORKSPACE\MCA PROJECT\00. MCA_blkEditor_blkTemplator_blkCapture_ver1.9\soft_ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.csprojResolveAssemblyReference.cache
+D:\WORKSPACE\MCA PROJECT\00. MCA_blkEditor_blkTemplator_blkCapture_ver1.9\soft_ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+D:\WORKSPACE\MCA PROJECT\00. MCA_blkEditor_blkTemplator_blkCapture_ver1.9\soft_ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+D:\WORKSPACE\MCA PROJECT\00. MCA_blkEditor_blkTemplator_blkCapture_ver1.9\soft_ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+D:\WORKSPACE\MCA PROJECT\00. MCA_blkEditor_blkTemplator_blkCapture_ver1.9\soft_ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+D:\WORKSPACE\MCA PROJECT\00. MCA_blkEditor_blkTemplator_blkCapture_ver1.9\soft_ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+E:\MY SOLUTION\IT WEB\CSHARP\00. MCA_blkEditor_blkTemplator_blkCapture_ver1.9\soft_ver1.9\sources\bin\Release\blkTemplator.exe.config
+E:\MY SOLUTION\IT WEB\CSHARP\00. MCA_blkEditor_blkTemplator_blkCapture_ver1.9\soft_ver1.9\sources\bin\Release\blkTemplator.exe
+E:\MY SOLUTION\IT WEB\CSHARP\00. MCA_blkEditor_blkTemplator_blkCapture_ver1.9\soft_ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.csprojResolveAssemblyReference.cache
+E:\MY SOLUTION\IT WEB\CSHARP\00. MCA_blkEditor_blkTemplator_blkCapture_ver1.9\soft_ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+E:\MY SOLUTION\IT WEB\CSHARP\00. MCA_blkEditor_blkTemplator_blkCapture_ver1.9\soft_ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+E:\MY SOLUTION\IT WEB\CSHARP\00. MCA_blkEditor_blkTemplator_blkCapture_ver1.9\soft_ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+E:\MY SOLUTION\IT WEB\CSHARP\00. MCA_blkEditor_blkTemplator_blkCapture_ver1.9\soft_ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+E:\MY SOLUTION\IT WEB\CSHARP\00. MCA_blkEditor_blkTemplator_blkCapture_ver1.9\soft_ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+C:\Users\Phat Vu\Dropbox\WORKSPACE\MCA PROJECT\CSHARP_BanLinhKien_Editor\soft_ver1.9\sources\bin\Release\blkTemplator.exe.config
+C:\Users\Phat Vu\Dropbox\WORKSPACE\MCA PROJECT\CSHARP_BanLinhKien_Editor\soft_ver1.9\sources\bin\Release\blkTemplator.exe
+C:\Users\Phat Vu\Dropbox\WORKSPACE\MCA PROJECT\CSHARP_BanLinhKien_Editor\soft_ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+C:\Users\Phat Vu\Dropbox\WORKSPACE\MCA PROJECT\CSHARP_BanLinhKien_Editor\soft_ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+C:\Users\Phat Vu\Dropbox\WORKSPACE\MCA PROJECT\CSHARP_BanLinhKien_Editor\soft_ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+C:\Users\Phat Vu\Dropbox\WORKSPACE\MCA PROJECT\CSHARP_BanLinhKien_Editor\soft_ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+C:\Users\Phat Vu\Dropbox\WORKSPACE\MCA PROJECT\CSHARP_BanLinhKien_Editor\soft_ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+E:\MY SOLUTION\IT WEB\CSHARP\CSHARP_BanLinhKien_Editor\soft_ver1.9\sources\bin\Release\blkTemplator.exe.config
+E:\MY SOLUTION\IT WEB\CSHARP\CSHARP_BanLinhKien_Editor\soft_ver1.9\sources\bin\Release\blkTemplator.exe
+E:\MY SOLUTION\IT WEB\CSHARP\CSHARP_BanLinhKien_Editor\soft_ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+E:\MY SOLUTION\IT WEB\CSHARP\CSHARP_BanLinhKien_Editor\soft_ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+E:\MY SOLUTION\IT WEB\CSHARP\CSHARP_BanLinhKien_Editor\soft_ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+E:\MY SOLUTION\IT WEB\CSHARP\CSHARP_BanLinhKien_Editor\soft_ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+E:\MY SOLUTION\IT WEB\CSHARP\CSHARP_BanLinhKien_Editor\soft_ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+C:\Users\Phat Vu\Dropbox\TEMPORARY\CSHARP_BanLinhKien_Editor_ver1.9.200520\ver1.9\sources\bin\Release\blkTemplator.exe.config
+C:\Users\Phat Vu\Dropbox\TEMPORARY\CSHARP_BanLinhKien_Editor_ver1.9.200520\ver1.9\sources\bin\Release\blkTemplator.exe
+C:\Users\Phat Vu\Dropbox\TEMPORARY\CSHARP_BanLinhKien_Editor_ver1.9.200520\ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.csprojResolveAssemblyReference.cache
+C:\Users\Phat Vu\Dropbox\TEMPORARY\CSHARP_BanLinhKien_Editor_ver1.9.200520\ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+C:\Users\Phat Vu\Dropbox\TEMPORARY\CSHARP_BanLinhKien_Editor_ver1.9.200520\ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+C:\Users\Phat Vu\Dropbox\TEMPORARY\CSHARP_BanLinhKien_Editor_ver1.9.200520\ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+C:\Users\Phat Vu\Dropbox\TEMPORARY\CSHARP_BanLinhKien_Editor_ver1.9.200520\ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+C:\Users\Phat Vu\Dropbox\TEMPORARY\CSHARP_BanLinhKien_Editor_ver1.9.200520\ver1.9\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+C:\Users\Phat Vu\Dropbox\TEMPORARY\CSHARP_BanLinhKien_Editor_ver1.9.200520\sources\bin\Release\blkTemplator.exe.config
+C:\Users\Phat Vu\Dropbox\TEMPORARY\CSHARP_BanLinhKien_Editor_ver1.9.200520\sources\bin\Release\blkTemplator.exe
+C:\Users\Phat Vu\Dropbox\TEMPORARY\CSHARP_BanLinhKien_Editor_ver1.9.200520\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+C:\Users\Phat Vu\Dropbox\TEMPORARY\CSHARP_BanLinhKien_Editor_ver1.9.200520\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+C:\Users\Phat Vu\Dropbox\TEMPORARY\CSHARP_BanLinhKien_Editor_ver1.9.200520\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+C:\Users\Phat Vu\Dropbox\TEMPORARY\CSHARP_BanLinhKien_Editor_ver1.9.200520\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+C:\Users\Phat Vu\Dropbox\TEMPORARY\CSHARP_BanLinhKien_Editor_ver1.9.200520\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+C:\Users\Phat Vu\Dropbox\TEMPORARY\CSHARP_BanLinhKien_Editor_ver1.9.200520\sources\blkTemplator\obj\x86\Release\blkTemplator.csprojResolveAssemblyReference.cache
+C:\Users\Phat Vu\Dropbox\TEMPORARY\CSHARP_BanLinhKien_Editor_ver1.9.200524\sources\bin\Release\blkTemplator.exe.config
+C:\Users\Phat Vu\Dropbox\TEMPORARY\CSHARP_BanLinhKien_Editor_ver1.9.200524\sources\bin\Release\blkTemplator.exe
+C:\Users\Phat Vu\Dropbox\TEMPORARY\CSHARP_BanLinhKien_Editor_ver1.9.200524\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+C:\Users\Phat Vu\Dropbox\TEMPORARY\CSHARP_BanLinhKien_Editor_ver1.9.200524\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+C:\Users\Phat Vu\Dropbox\TEMPORARY\CSHARP_BanLinhKien_Editor_ver1.9.200524\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+C:\Users\Phat Vu\Dropbox\TEMPORARY\CSHARP_BanLinhKien_Editor_ver1.9.200524\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+C:\Users\Phat Vu\Dropbox\TEMPORARY\CSHARP_BanLinhKien_Editor_ver1.9.200524\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+C:\Users\Phat Vu\ver2.0\sources\bin\Release\blkTemplator.exe.config
+C:\Users\Phat Vu\ver2.0\sources\bin\Release\blkTemplator.exe
+C:\Users\Phat Vu\ver2.0\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+C:\Users\Phat Vu\ver2.0\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+C:\Users\Phat Vu\ver2.0\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+C:\Users\Phat Vu\ver2.0\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+C:\Users\Phat Vu\ver2.0\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+C:\Users\Phat Vu\ver2.0\sources\blkTemplator\obj\x86\Release\blkTemplator.csprojResolveAssemblyReference.cache
+C:\Users\Phat Vu\Dropbox\TEMPORARY\ver2.0\sources\bin\Release\blkTemplator.exe.config
+C:\Users\Phat Vu\Dropbox\TEMPORARY\ver2.0\sources\bin\Release\blkTemplator.exe
+C:\Users\Phat Vu\Dropbox\TEMPORARY\ver2.0\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+C:\Users\Phat Vu\Dropbox\TEMPORARY\ver2.0\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+C:\Users\Phat Vu\Dropbox\TEMPORARY\ver2.0\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+C:\Users\Phat Vu\Dropbox\TEMPORARY\ver2.0\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+C:\Users\Phat Vu\Dropbox\TEMPORARY\ver2.0\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+E:\MY SOLUTION\IT WEB\CSHARP\ver2.0_old\sources\bin\Release\blkTemplator.exe.config
+E:\MY SOLUTION\IT WEB\CSHARP\ver2.0_old\sources\bin\Release\blkTemplator.exe
+E:\MY SOLUTION\IT WEB\CSHARP\ver2.0_old\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+E:\MY SOLUTION\IT WEB\CSHARP\ver2.0_old\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+E:\MY SOLUTION\IT WEB\CSHARP\ver2.0_old\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+E:\MY SOLUTION\IT WEB\CSHARP\ver2.0_old\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+E:\MY SOLUTION\IT WEB\CSHARP\ver2.0_old\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+C:\Users\Phat Vu\Desktop\ver2.0\sources\bin\Release\blkTemplator.exe.config
+C:\Users\Phat Vu\Desktop\ver2.0\sources\bin\Release\blkTemplator.exe
+C:\Users\Phat Vu\Desktop\ver2.0\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+C:\Users\Phat Vu\Desktop\ver2.0\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+C:\Users\Phat Vu\Desktop\ver2.0\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+C:\Users\Phat Vu\Desktop\ver2.0\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+C:\Users\Phat Vu\Desktop\ver2.0\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+C:\Users\Phat Vu\Desktop\ver2.0\sources\blkTemplator\obj\x86\Release\blkTemplator.csprojResolveAssemblyReference.cache
+E:\MY SOLUTION\IT WEB\CSHARP\CSHARP_BanLinhKien_Editor_ver2.0.200528\sources\bin\Release\blkTemplator.exe.config
+E:\MY SOLUTION\IT WEB\CSHARP\CSHARP_BanLinhKien_Editor_ver2.0.200528\sources\bin\Release\blkTemplator.exe
+E:\MY SOLUTION\IT WEB\CSHARP\CSHARP_BanLinhKien_Editor_ver2.0.200528\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+E:\MY SOLUTION\IT WEB\CSHARP\CSHARP_BanLinhKien_Editor_ver2.0.200528\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+E:\MY SOLUTION\IT WEB\CSHARP\CSHARP_BanLinhKien_Editor_ver2.0.200528\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+E:\MY SOLUTION\IT WEB\CSHARP\CSHARP_BanLinhKien_Editor_ver2.0.200528\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+E:\MY SOLUTION\IT WEB\CSHARP\CSHARP_BanLinhKien_Editor_ver2.0.200528\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+D:\CSHARP_BanLinhKien_Editor_ver2.0.200529\sources\bin\Release\blkTemplator.exe.config
+D:\CSHARP_BanLinhKien_Editor_ver2.0.200529\sources\bin\Release\blkTemplator.exe
+D:\CSHARP_BanLinhKien_Editor_ver2.0.200529\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+D:\CSHARP_BanLinhKien_Editor_ver2.0.200529\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+D:\CSHARP_BanLinhKien_Editor_ver2.0.200529\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+D:\CSHARP_BanLinhKien_Editor_ver2.0.200529\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+D:\CSHARP_BanLinhKien_Editor_ver2.0.200529\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+D:\CSHARP_BanLinhKien_Editor_ver2.0.200530\sources\bin\Release\blkTemplator.exe.config
+D:\CSHARP_BanLinhKien_Editor_ver2.0.200530\sources\bin\Release\blkTemplator.exe
+D:\CSHARP_BanLinhKien_Editor_ver2.0.200530\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+D:\CSHARP_BanLinhKien_Editor_ver2.0.200530\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+D:\CSHARP_BanLinhKien_Editor_ver2.0.200530\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+D:\CSHARP_BanLinhKien_Editor_ver2.0.200530\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+D:\CSHARP_BanLinhKien_Editor_ver2.0.200530\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+D:\CSHARP_BanLinhKien_Editor_ver2.0.200530\sources\blkTemplator\obj\x86\Release\blkTemplator.csprojResolveAssemblyReference.cache
+E:\MY SOLUTION\IT WEB\CSHARP\CSHARP_BanLinhKien_Editor_ver2.0.200531\sources\bin\Release\blkTemplator.exe.config
+E:\MY SOLUTION\IT WEB\CSHARP\CSHARP_BanLinhKien_Editor_ver2.0.200531\sources\bin\Release\blkTemplator.exe
+E:\MY SOLUTION\IT WEB\CSHARP\CSHARP_BanLinhKien_Editor_ver2.0.200531\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+E:\MY SOLUTION\IT WEB\CSHARP\CSHARP_BanLinhKien_Editor_ver2.0.200531\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+E:\MY SOLUTION\IT WEB\CSHARP\CSHARP_BanLinhKien_Editor_ver2.0.200531\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+E:\MY SOLUTION\IT WEB\CSHARP\CSHARP_BanLinhKien_Editor_ver2.0.200531\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+E:\MY SOLUTION\IT WEB\CSHARP\CSHARP_BanLinhKien_Editor_ver2.0.200531\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+E:\MY SOLUTION\IT WEB\CSHARP\CSHARP_BanLinhKien_Editor_ver2.0.200601\sources\bin\Release\blkTemplator.exe.config
+E:\MY SOLUTION\IT WEB\CSHARP\CSHARP_BanLinhKien_Editor_ver2.0.200601\sources\bin\Release\blkTemplator.exe
+E:\MY SOLUTION\IT WEB\CSHARP\CSHARP_BanLinhKien_Editor_ver2.0.200601\sources\blkTemplator\obj\x86\Release\blkTemplator.csprojResolveAssemblyReference.cache
+E:\MY SOLUTION\IT WEB\CSHARP\CSHARP_BanLinhKien_Editor_ver2.0.200601\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+E:\MY SOLUTION\IT WEB\CSHARP\CSHARP_BanLinhKien_Editor_ver2.0.200601\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+E:\MY SOLUTION\IT WEB\CSHARP\CSHARP_BanLinhKien_Editor_ver2.0.200601\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+E:\MY SOLUTION\IT WEB\CSHARP\CSHARP_BanLinhKien_Editor_ver2.0.200601\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+E:\MY SOLUTION\IT WEB\CSHARP\CSHARP_BanLinhKien_Editor_ver2.0.200601\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+D:\CSHARP_BanLinhKien_Editor_ver2.0.200603\sources\bin\Release\blkTemplator.exe.config
+D:\CSHARP_BanLinhKien_Editor_ver2.0.200603\sources\bin\Release\blkTemplator.exe
+D:\CSHARP_BanLinhKien_Editor_ver2.0.200603\sources\blkTemplator\obj\x86\Release\blkTemplator.csprojResolveAssemblyReference.cache
+D:\CSHARP_BanLinhKien_Editor_ver2.0.200603\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+D:\CSHARP_BanLinhKien_Editor_ver2.0.200603\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+D:\CSHARP_BanLinhKien_Editor_ver2.0.200603\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+D:\CSHARP_BanLinhKien_Editor_ver2.0.200603\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+D:\CSHARP_BanLinhKien_Editor_ver2.0.200603\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+D:\ver2.0.200604\sources\bin\Release\blkTemplator.exe.config
+D:\ver2.0.200604\sources\bin\Release\blkTemplator.exe
+D:\ver2.0.200604\sources\blkTemplator\obj\x86\Release\blkTemplator.csprojResolveAssemblyReference.cache
+D:\ver2.0.200604\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+D:\ver2.0.200604\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+D:\ver2.0.200604\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+D:\ver2.0.200604\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+D:\ver2.0.200604\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+D:\ver2.0\sources\bin\Release\blkTemplator.exe.config
+D:\ver2.0\sources\bin\Release\blkTemplator.exe
+D:\ver2.0\sources\blkTemplator\obj\x86\Release\blkTemplator.csprojResolveAssemblyReference.cache
+D:\ver2.0\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+D:\ver2.0\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+D:\ver2.0\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+D:\ver2.0\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+D:\ver2.0\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+D:\Dropbox\MY SOLUTION\IT WEB\CSHARP\CSHARP_BanLinhKien_Editor\ver2.0.200107\sources\bin\Release\blkTemplator.exe.config
+D:\Dropbox\MY SOLUTION\IT WEB\CSHARP\CSHARP_BanLinhKien_Editor\ver2.0.200107\sources\bin\Release\blkTemplator.exe
+D:\Dropbox\MY SOLUTION\IT WEB\CSHARP\CSHARP_BanLinhKien_Editor\ver2.0.200107\sources\blkTemplator\obj\x86\Release\blkTemplator.csprojResolveAssemblyReference.cache
+D:\Dropbox\MY SOLUTION\IT WEB\CSHARP\CSHARP_BanLinhKien_Editor\ver2.0.200107\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+D:\Dropbox\MY SOLUTION\IT WEB\CSHARP\CSHARP_BanLinhKien_Editor\ver2.0.200107\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+D:\Dropbox\MY SOLUTION\IT WEB\CSHARP\CSHARP_BanLinhKien_Editor\ver2.0.200107\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+D:\Dropbox\MY SOLUTION\IT WEB\CSHARP\CSHARP_BanLinhKien_Editor\ver2.0.200107\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+D:\Dropbox\MY SOLUTION\IT WEB\CSHARP\CSHARP_BanLinhKien_Editor\ver2.0.200107\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+D:\Dropbox\TEMPORARY\ver2.0.2020701\sources\bin\Release\blkTemplator.exe.config
+D:\Dropbox\TEMPORARY\ver2.0.2020701\sources\bin\Release\blkTemplator.exe
+D:\Dropbox\TEMPORARY\ver2.0.2020701\sources\blkTemplator\obj\x86\Release\blkTemplator.csprojResolveAssemblyReference.cache
+D:\Dropbox\TEMPORARY\ver2.0.2020701\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+D:\Dropbox\TEMPORARY\ver2.0.2020701\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+D:\Dropbox\TEMPORARY\ver2.0.2020701\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+D:\Dropbox\TEMPORARY\ver2.0.2020701\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+D:\Dropbox\TEMPORARY\ver2.0.2020701\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+D:\OneDrive\BanLinhKien_Editor\ver2.0.2020701\ver2.0.2020701\sources\bin\Release\blkTemplator.exe.config
+D:\OneDrive\BanLinhKien_Editor\ver2.0.2020701\ver2.0.2020701\sources\bin\Release\blkTemplator.exe
+D:\OneDrive\BanLinhKien_Editor\ver2.0.2020701\ver2.0.2020701\sources\blkTemplator\obj\x86\Release\blkTemplator.csprojResolveAssemblyReference.cache
+D:\OneDrive\BanLinhKien_Editor\ver2.0.2020701\ver2.0.2020701\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+D:\OneDrive\BanLinhKien_Editor\ver2.0.2020701\ver2.0.2020701\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+D:\OneDrive\BanLinhKien_Editor\ver2.0.2020701\ver2.0.2020701\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+D:\OneDrive\BanLinhKien_Editor\ver2.0.2020701\ver2.0.2020701\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+D:\OneDrive\BanLinhKien_Editor\ver2.0.2020701\ver2.0.2020701\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+D:\OneDrive\BanLinhKien_Editor\ver2.0.2020701\sources\bin\Release\blkTemplator.exe.config
+D:\OneDrive\BanLinhKien_Editor\ver2.0.2020701\sources\bin\Release\blkTemplator.exe
+D:\OneDrive\BanLinhKien_Editor\ver2.0.2020701\sources\blkTemplator\obj\x86\Release\blkTemplator.csprojResolveAssemblyReference.cache
+D:\OneDrive\BanLinhKien_Editor\ver2.0.2020701\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+D:\OneDrive\BanLinhKien_Editor\ver2.0.2020701\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+D:\OneDrive\BanLinhKien_Editor\ver2.0.2020701\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+D:\OneDrive\BanLinhKien_Editor\ver2.0.2020701\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+D:\OneDrive\BanLinhKien_Editor\ver2.0.2020701\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+D:\OneDrive\BanLinhKien_Editor\ver2.0.20210112\sources\bin\Release\blkTemplator.exe.config
+D:\OneDrive\BanLinhKien_Editor\ver2.0.20210112\sources\bin\Release\blkTemplator.exe
+D:\OneDrive\BanLinhKien_Editor\ver2.0.20210112\sources\blkTemplator\obj\x86\Release\blkTemplator.csprojResolveAssemblyReference.cache
+D:\OneDrive\BanLinhKien_Editor\ver2.0.20210112\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+D:\OneDrive\BanLinhKien_Editor\ver2.0.20210112\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+D:\OneDrive\BanLinhKien_Editor\ver2.0.20210112\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+D:\OneDrive\BanLinhKien_Editor\ver2.0.20210112\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+D:\OneDrive\BanLinhKien_Editor\ver2.0.20210112\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+E:\OneDrive\Solutions\IT Web\CSharp\BanLinhKien_Editor\ver2.0.210112\sources\bin\Release\blkTemplator.exe.config
+E:\OneDrive\Solutions\IT Web\CSharp\BanLinhKien_Editor\ver2.0.210112\sources\bin\Release\blkTemplator.exe
+E:\OneDrive\Solutions\IT Web\CSharp\BanLinhKien_Editor\ver2.0.210112\sources\blkTemplator\obj\x86\Release\blkTemplator.csprojResolveAssemblyReference.cache
+E:\OneDrive\Solutions\IT Web\CSharp\BanLinhKien_Editor\ver2.0.210112\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+E:\OneDrive\Solutions\IT Web\CSharp\BanLinhKien_Editor\ver2.0.210112\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+E:\OneDrive\Solutions\IT Web\CSharp\BanLinhKien_Editor\ver2.0.210112\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+E:\OneDrive\Solutions\IT Web\CSharp\BanLinhKien_Editor\ver2.0.210112\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+E:\OneDrive\Solutions\IT Web\CSharp\BanLinhKien_Editor\ver2.0.210112\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+D:\OneDrive\BanLinhKien_Editor\ver2.0.210112\sources\bin\Release\blkTemplator.exe.config
+D:\OneDrive\BanLinhKien_Editor\ver2.0.210112\sources\bin\Release\blkTemplator.exe
+D:\OneDrive\BanLinhKien_Editor\ver2.0.210112\sources\blkTemplator\obj\x86\Release\blkTemplator.csprojResolveAssemblyReference.cache
+D:\OneDrive\BanLinhKien_Editor\ver2.0.210112\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+D:\OneDrive\BanLinhKien_Editor\ver2.0.210112\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+D:\OneDrive\BanLinhKien_Editor\ver2.0.210112\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+D:\OneDrive\BanLinhKien_Editor\ver2.0.210112\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+D:\OneDrive\BanLinhKien_Editor\ver2.0.210112\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+D:\OneDrive\BanLinhKien_Editor\ver2.0.210114\sources\bin\Release\blkTemplator.exe.config
+D:\OneDrive\BanLinhKien_Editor\ver2.0.210114\sources\bin\Release\blkTemplator.exe
+D:\OneDrive\BanLinhKien_Editor\ver2.0.210114\sources\blkTemplator\obj\x86\Release\blkTemplator.csprojResolveAssemblyReference.cache
+D:\OneDrive\BanLinhKien_Editor\ver2.0.210114\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+D:\OneDrive\BanLinhKien_Editor\ver2.0.210114\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+D:\OneDrive\BanLinhKien_Editor\ver2.0.210114\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+D:\OneDrive\BanLinhKien_Editor\ver2.0.210114\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+D:\OneDrive\BanLinhKien_Editor\ver2.0.210114\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+D:\OneDrive\BanLinhKien_Editor\ver2.1.210122\sources\bin\Release\blkTemplator.exe.config
+D:\OneDrive\BanLinhKien_Editor\ver2.1.210122\sources\bin\Release\blkTemplator.exe
+D:\OneDrive\BanLinhKien_Editor\ver2.1.210122\sources\blkTemplator\obj\x86\Release\blkTemplator.csprojResolveAssemblyReference.cache
+D:\OneDrive\BanLinhKien_Editor\ver2.1.210122\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+D:\OneDrive\BanLinhKien_Editor\ver2.1.210122\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+D:\OneDrive\BanLinhKien_Editor\ver2.1.210122\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+D:\OneDrive\BanLinhKien_Editor\ver2.1.210122\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+D:\OneDrive\BanLinhKien_Editor\ver2.1.210122\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+D:\OneDrive\Miscellaneous\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210222\sources\bin\Release\blkTemplator.exe.config
+D:\OneDrive\Miscellaneous\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210222\sources\bin\Release\blkTemplator.exe
+D:\OneDrive\Miscellaneous\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210222\sources\blkTemplator\obj\x86\Release\blkTemplator.csprojResolveAssemblyReference.cache
+D:\OneDrive\Miscellaneous\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210222\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+D:\OneDrive\Miscellaneous\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210222\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+D:\OneDrive\Miscellaneous\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210222\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+D:\OneDrive\Miscellaneous\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210222\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+D:\OneDrive\Miscellaneous\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210222\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210226\sources\bin\Release\blkTemplator.exe.config
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210226\sources\bin\Release\blkTemplator.exe
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210226\sources\blkTemplator\obj\x86\Release\blkTemplator.csprojResolveAssemblyReference.cache
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210226\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210226\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210226\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210226\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210226\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210227\sources\bin\Release\blkTemplator.exe.config
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210227\sources\bin\Release\blkTemplator.exe
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210227\sources\blkTemplator\obj\x86\Release\blkTemplator.csprojResolveAssemblyReference.cache
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210227\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210227\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210227\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210227\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210227\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+E:\OneDrive\Solutions\IT Web\Miscellaneous\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\bin\Release\blkTemplator.exe.config
+E:\OneDrive\Solutions\IT Web\Miscellaneous\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\bin\Release\blkTemplator.exe
+E:\OneDrive\Solutions\IT Web\Miscellaneous\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkTemplator\obj\x86\Release\blkTemplator.csprojResolveAssemblyReference.cache
+E:\OneDrive\Solutions\IT Web\Miscellaneous\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+E:\OneDrive\Solutions\IT Web\Miscellaneous\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+E:\OneDrive\Solutions\IT Web\Miscellaneous\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+E:\OneDrive\Solutions\IT Web\Miscellaneous\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+E:\OneDrive\Solutions\IT Web\Miscellaneous\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+E:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\bin\Release\blkTemplator.exe.config
+E:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\bin\Release\blkTemplator.exe
+E:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkTemplator\obj\x86\Release\blkTemplator.csprojResolveAssemblyReference.cache
+E:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+E:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+E:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+E:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+E:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkTemplator\obj\x86\Release\blkTemplator.exe
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\bin\Release\blkTemplator.exe.config
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\bin\Release\blkTemplator.exe
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkTemplator\obj\x86\Release\blkTemplator.csprojResolveAssemblyReference.cache
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkTemplator\obj\x86\Release\blkTemplator.frmAbout.resources
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkTemplator\obj\x86\Release\blkTemplator.frmMain.resources
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkTemplator\obj\x86\Release\blkTemplator.Properties.Resources.resources
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkTemplator\obj\x86\Release\blkTemplator.csproj.GenerateResource.Cache
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkTemplator\obj\x86\Release\blkTemplator.exe

@@ -1,0 +1,78 @@
+D:\OneDrive\Miscellaneous\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210222\sources\bin\Release\blkEditor.exe.config
+D:\OneDrive\Miscellaneous\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210222\sources\bin\Release\blkEditor.exe
+D:\OneDrive\Miscellaneous\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210222\sources\blkEditor\obj\x86\Release\blkEditor.csprojResolveAssemblyReference.cache
+D:\OneDrive\Miscellaneous\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210222\sources\blkEditor\obj\x86\Release\blkEditor.frmAbout.resources
+D:\OneDrive\Miscellaneous\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210222\sources\blkEditor\obj\x86\Release\blkEditor.frmGetData.resources
+D:\OneDrive\Miscellaneous\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210222\sources\blkEditor\obj\x86\Release\blkEditor.frmGetDrive.resources
+D:\OneDrive\Miscellaneous\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210222\sources\blkEditor\obj\x86\Release\blkEditor.frmMain.resources
+D:\OneDrive\Miscellaneous\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210222\sources\blkEditor\obj\x86\Release\blkEditor.frmRequest.resources
+D:\OneDrive\Miscellaneous\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210222\sources\blkEditor\obj\x86\Release\blkEditor.frmSplash.resources
+D:\OneDrive\Miscellaneous\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210222\sources\blkEditor\obj\x86\Release\blkEditor.Properties.Resources.resources
+D:\OneDrive\Miscellaneous\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210222\sources\blkEditor\obj\x86\Release\blkEditor.ucHintText.resources
+D:\OneDrive\Miscellaneous\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210222\sources\blkEditor\obj\x86\Release\blkEditor.csproj.GenerateResource.Cache
+D:\OneDrive\Miscellaneous\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210222\sources\blkEditor\obj\x86\Release\blkEditor.exe
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210226\sources\bin\Release\blkEditor.exe.config
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210226\sources\blkEditor\obj\x86\Release\blkEditor.exe
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210226\sources\bin\Release\blkEditor.exe
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210226\sources\blkEditor\obj\x86\Release\blkEditor.csprojResolveAssemblyReference.cache
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210226\sources\blkEditor\obj\x86\Release\blkEditor.frmAbout.resources
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210226\sources\blkEditor\obj\x86\Release\blkEditor.frmGetData.resources
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210226\sources\blkEditor\obj\x86\Release\blkEditor.frmGetDrive.resources
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210226\sources\blkEditor\obj\x86\Release\blkEditor.frmMain.resources
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210226\sources\blkEditor\obj\x86\Release\blkEditor.frmRequest.resources
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210226\sources\blkEditor\obj\x86\Release\blkEditor.frmSplash.resources
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210226\sources\blkEditor\obj\x86\Release\blkEditor.Properties.Resources.resources
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210226\sources\blkEditor\obj\x86\Release\blkEditor.ucHintText.resources
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210226\sources\blkEditor\obj\x86\Release\blkEditor.csproj.GenerateResource.Cache
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210227\sources\bin\Release\blkEditor.exe.config
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210227\sources\bin\Release\blkEditor.exe
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210227\sources\blkEditor\obj\x86\Release\blkEditor.csprojResolveAssemblyReference.cache
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210227\sources\blkEditor\obj\x86\Release\blkEditor.frmAbout.resources
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210227\sources\blkEditor\obj\x86\Release\blkEditor.frmGetData.resources
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210227\sources\blkEditor\obj\x86\Release\blkEditor.frmGetDrive.resources
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210227\sources\blkEditor\obj\x86\Release\blkEditor.frmMain.resources
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210227\sources\blkEditor\obj\x86\Release\blkEditor.frmRequest.resources
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210227\sources\blkEditor\obj\x86\Release\blkEditor.frmSplash.resources
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210227\sources\blkEditor\obj\x86\Release\blkEditor.Properties.Resources.resources
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210227\sources\blkEditor\obj\x86\Release\blkEditor.ucHintText.resources
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210227\sources\blkEditor\obj\x86\Release\blkEditor.csproj.GenerateResource.Cache
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.1.210227\sources\blkEditor\obj\x86\Release\blkEditor.exe
+E:\OneDrive\Solutions\IT Web\Miscellaneous\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\bin\Release\blkEditor.exe.config
+E:\OneDrive\Solutions\IT Web\Miscellaneous\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\bin\Release\blkEditor.exe
+E:\OneDrive\Solutions\IT Web\Miscellaneous\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkEditor\obj\x86\Release\blkEditor.csprojResolveAssemblyReference.cache
+E:\OneDrive\Solutions\IT Web\Miscellaneous\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkEditor\obj\x86\Release\blkEditor.frmAbout.resources
+E:\OneDrive\Solutions\IT Web\Miscellaneous\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkEditor\obj\x86\Release\blkEditor.frmGetData.resources
+E:\OneDrive\Solutions\IT Web\Miscellaneous\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkEditor\obj\x86\Release\blkEditor.frmGetDrive.resources
+E:\OneDrive\Solutions\IT Web\Miscellaneous\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkEditor\obj\x86\Release\blkEditor.frmMain.resources
+E:\OneDrive\Solutions\IT Web\Miscellaneous\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkEditor\obj\x86\Release\blkEditor.frmRequest.resources
+E:\OneDrive\Solutions\IT Web\Miscellaneous\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkEditor\obj\x86\Release\blkEditor.frmSplash.resources
+E:\OneDrive\Solutions\IT Web\Miscellaneous\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkEditor\obj\x86\Release\blkEditor.Properties.Resources.resources
+E:\OneDrive\Solutions\IT Web\Miscellaneous\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkEditor\obj\x86\Release\blkEditor.ucHintText.resources
+E:\OneDrive\Solutions\IT Web\Miscellaneous\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkEditor\obj\x86\Release\blkEditor.csproj.GenerateResource.Cache
+E:\OneDrive\Solutions\IT Web\Miscellaneous\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkEditor\obj\x86\Release\blkEditor.exe
+E:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\bin\Release\blkEditor.exe.config
+E:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\bin\Release\blkEditor.exe
+E:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkEditor\obj\x86\Release\blkEditor.csprojResolveAssemblyReference.cache
+E:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkEditor\obj\x86\Release\blkEditor.frmAbout.resources
+E:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkEditor\obj\x86\Release\blkEditor.frmGetData.resources
+E:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkEditor\obj\x86\Release\blkEditor.frmGetDrive.resources
+E:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkEditor\obj\x86\Release\blkEditor.frmMain.resources
+E:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkEditor\obj\x86\Release\blkEditor.frmRequest.resources
+E:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkEditor\obj\x86\Release\blkEditor.frmSplash.resources
+E:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkEditor\obj\x86\Release\blkEditor.Properties.Resources.resources
+E:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkEditor\obj\x86\Release\blkEditor.ucHintText.resources
+E:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkEditor\obj\x86\Release\blkEditor.csproj.GenerateResource.Cache
+E:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkEditor\obj\x86\Release\blkEditor.exe
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\bin\Release\blkEditor.exe.config
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\bin\Release\blkEditor.exe
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkEditor\obj\x86\Release\blkEditor.csprojResolveAssemblyReference.cache
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkEditor\obj\x86\Release\blkEditor.frmAbout.resources
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkEditor\obj\x86\Release\blkEditor.frmGetData.resources
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkEditor\obj\x86\Release\blkEditor.frmGetDrive.resources
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkEditor\obj\x86\Release\blkEditor.frmMain.resources
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkEditor\obj\x86\Release\blkEditor.frmRequest.resources
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkEditor\obj\x86\Release\blkEditor.frmSplash.resources
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkEditor\obj\x86\Release\blkEditor.Properties.Resources.resources
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkEditor\obj\x86\Release\blkEditor.ucHintText.resources
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkEditor\obj\x86\Release\blkEditor.csproj.GenerateResource.Cache
+D:\OneDrive\BanLinhKien_Product\BanLinhKien_Editor\ver2.2\sources\blkEditor\obj\x86\Release\blkEditor.exe

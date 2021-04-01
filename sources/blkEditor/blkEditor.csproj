@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Release</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{F6770DA4-652B-4D3F-B7BD-BE80BB26CD8A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>blkEditor</RootNamespace>
+    <AssemblyName>blkEditor</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>blkEditor.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <PlatformTarget>x86</PlatformTarget>
+    <OutputPath>..\bin\Release\</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Geckofx-Core, Version=60.0.54.0, Culture=neutral, PublicKeyToken=3209ac31600d1857, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Geckofx60.32.60.0.54\lib\net45\Geckofx-Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Geckofx-Winforms, Version=60.0.54.0, Culture=neutral, PublicKeyToken=3209ac31600d1857, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Geckofx60.32.60.0.54\lib\net45\Geckofx-Winforms.dll</HintPath>
+    </Reference>
+    <Reference Include="M2Mqtt.Net, Version=4.3.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\M2Mqtt.4.3.0.0\lib\net45\M2Mqtt.Net.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1000\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Threading.Tasks">
+      <HintPath>..\packages\Microsoft.Bcl.Async.1.0.168\lib\net40\Microsoft.Threading.Tasks.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Threading.Tasks.Extensions">
+      <HintPath>..\packages\Microsoft.Bcl.Async.1.0.168\lib\net40\Microsoft.Threading.Tasks.Extensions.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Threading.Tasks.Extensions.Desktop">
+      <HintPath>..\packages\Microsoft.Bcl.Async.1.0.168\lib\net40\Microsoft.Threading.Tasks.Extensions.Desktop.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Net.Http.WebRequest" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAbout.Designer.cs">
+      <DependentUpon>frmAbout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGetData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGetData.Designer.cs">
+      <DependentUpon>frmGetData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGetDrive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGetDrive.Designer.cs">
+      <DependentUpon>frmGetDrive.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRequest.Designer.cs">
+      <DependentUpon>frmRequest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSplash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSplash.Designer.cs">
+      <DependentUpon>frmSplash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ucHintText.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucHintText.Designer.cs">
+      <DependentUpon>ucHintText.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frmAbout.resx">
+      <DependentUpon>frmAbout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGetData.resx">
+      <DependentUpon>frmGetData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGetDrive.resx">
+      <DependentUpon>frmGetDrive.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRequest.resx">
+      <DependentUpon>frmRequest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSplash.resx">
+      <DependentUpon>frmSplash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ucHintText.resx">
+      <DependentUpon>ucHintText.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="icon.ico" />
+    <None Include="icon\blk_templator.png" />
+    <None Include="icon\get_link.png" />
+    <None Include="icon\import.png" />
+    <None Include="icon\mark.png" />
+    <None Include="icon\restore.png" />
+    <None Include="icon\get_drive.png" />
+    <None Include="icon\sort_up.png" />
+    <None Include="icon\sort_down.png" />
+    <None Include="icon\done.png" />
+    <None Include="icon\quit.png" />
+    <None Include="icon\homepage.png" />
+    <None Include="icon\help.png" />
+    <None Include="icon\about.png" />
+    <None Include="icon\reset.png" />
+    <None Include="icon\upload.png" />
+    <None Include="icon\update.png" />
+    <None Include="icon\sync.png" />
+    <None Include="icon\splash_icon.png" />
+    <None Include="icon\splash.png" />
+    <None Include="icon\save.png" />
+    <None Include="icon\rotate.png" />
+    <None Include="icon\reload.png" />
+    <None Include="icon\post.png" />
+    <None Include="icon\original_scale.png" />
+    <None Include="icon\open.png" />
+    <None Include="icon\move_up.png" />
+    <None Include="icon\move_right.png" />
+    <None Include="icon\move_left.png" />
+    <None Include="icon\move_down.png" />
+    <None Include="icon\list.png" />
+    <None Include="icon\inc_scale.png" />
+    <None Include="icon\inc_contrasnt.png" />
+    <None Include="icon\get_data.png" />
+    <None Include="icon\get.png" />
+    <None Include="icon\filter.png" />
+    <None Include="icon\edit.png" />
+    <None Include="icon\delete.png" />
+    <None Include="icon\dec_scale.png" />
+    <None Include="icon\dec_contrast.png" />
+    <None Include="icon\copy.png" />
+    <None Include="icon\clear_crop.png" />
+    <None Include="icon\clear.png" />
+    <None Include="icon\add_image.png" />
+    <None Include="icon\add.png" />
+    <None Include="icon\about_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\phatvu1294\phatvu1294.csproj">
+      <Project>{cdcc0344-e7ad-4ebd-beb6-6d1152bc4dfc}</Project>
+      <Name>phatvu1294</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Analyzer Include="..\packages\Geckofx60.32.60.0.54\lib\net45\Geckofx-Core.dll" />
+    <Analyzer Include="..\packages\Geckofx60.32.60.0.54\lib\net45\Geckofx-Winforms.dll" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+  </Target>
+  <Import Project="..\packages\Microsoft.Bcl.Build.1.0.21\build\Microsoft.Bcl.Build.targets" Condition="Exists('..\packages\Microsoft.Bcl.Build.1.0.21\build\Microsoft.Bcl.Build.targets')" />
+  <Import Project="..\packages\Geckofx60.32.60.0.54\build\Geckofx60.32.targets" Condition="Exists('..\packages\Geckofx60.32.60.0.54\build\Geckofx60.32.targets')" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
